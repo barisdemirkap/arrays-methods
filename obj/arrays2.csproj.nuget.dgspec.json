@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90554\\Desktop\\Projects\\arrays2\\arrays2.csproj": {}
+    "C:\\Users\\90554\\Desktop\\Projects\\arrays methods\\arrays2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90554\\Desktop\\Projects\\arrays2\\arrays2.csproj": {
+    "C:\\Users\\90554\\Desktop\\Projects\\arrays methods\\arrays2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90554\\Desktop\\Projects\\arrays2\\arrays2.csproj",
+        "projectUniqueName": "C:\\Users\\90554\\Desktop\\Projects\\arrays methods\\arrays2.csproj",
         "projectName": "arrays2",
-        "projectPath": "C:\\Users\\90554\\Desktop\\Projects\\arrays2\\arrays2.csproj",
+        "projectPath": "C:\\Users\\90554\\Desktop\\Projects\\arrays methods\\arrays2.csproj",
         "packagesPath": "C:\\Users\\90554\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90554\\Desktop\\Projects\\arrays2\\obj\\",
+        "outputPath": "C:\\Users\\90554\\Desktop\\Projects\\arrays methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\90554\\AppData\\Roaming\\NuGet\\NuGet.Config"
